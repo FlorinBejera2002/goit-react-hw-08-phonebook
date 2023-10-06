@@ -50,7 +50,7 @@ const ContactForm = () => {
         title="Phone number must be digits and can contain spaces, dashes, parentheses and can start with +"
         pattern="^+d{2}(d{3})d{3}-d{2}-d{2}$"
         required
-        sx={{ mb: 2 }}
+        sx={{ mb: 3 }}
       />
       <Button
         variant="contained"

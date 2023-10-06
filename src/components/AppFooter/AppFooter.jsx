@@ -8,11 +8,11 @@ const AppFooter = () => {
         <p>
           ©2023 Developed by{' '}
           <a
-            href="https://github.com/AlexGoIT"
+            href="https://github.com/FlorinBejera2002"
             target="_blank"
             rel="noreferrer nofollow noopener"
           >
-            Oleksandr Puriaiev
+           Florin B.
           </a>
         </p>
       </Container>
